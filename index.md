@@ -1,5 +1,6 @@
 ---
 
+
 In August 2010, 33 miners were stuck 700 meters underground because of a collapse at the San José mine. OSINT played a significant role in helping them be rescued. Factors like journalists, photos, and satellite imagery helped identify which access points were usable and what structures were compromised. OSINT made the rescue faster and helped make better-informed decisions, reducing delays and risk. After 69 days, the rescue capsule brought all 33 miners to the surface alive. That drew me to OSINT; good information can save lives. I'm interested in OSINT because having the correct information or missing it is the line between success and disaster in high-stakes situations.
 
 OSINT stands for open-source intelligence, which is defined as the process of collecting and analyzing public information to use that intelligence for a specific purpose. My name is Triston Thompson, and I am a cybersecurity major at Penn State. Through this blog, I plan to document my process of learning OSINT publicly to help other beginners because it can be hard to find a starting point.
